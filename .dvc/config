@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = C:\Users\dell\PycharmProjects\Insurance-Risk-Analytics-Predictive-Modeling\data
